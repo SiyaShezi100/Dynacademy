@@ -11,6 +11,7 @@ https://dynacademy.base44.app
 ---
 
 # Overview
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/76a418d0-3ea7-4a99-a1cc-9e7f1be4e5eb" />
 
 Dynacademy combines AI technologies, educational support systems, career guidance, and analytics into one modern platform.
 
