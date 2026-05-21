@@ -5,6 +5,8 @@ Dynacademy is an AI-powered education and career guidance platform designed to h
 ## Live Website
 
 https://dynacademy.base44.app
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/5d8fbafa-540b-43ab-aae7-dc08dcd6f1b1" />
+
 
 ---
 
